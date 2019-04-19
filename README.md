@@ -11,7 +11,7 @@ A chrome extension which replaces the words “AI” or “Artificial Intelligen
 This is a simple just-for-fun extension which replaces the phrases "AI" or "Artificial intelligence" within the pages you visit with the phrase "if-else statements". Those who have a computer science or programming background might be familiar with the joke. So, have fun reading all about futuristic if-else statements technology...
 
 ## Screenshot
-![Text replaced](/screenshot.png)
+![Text replaced](/screen.png)
 
 ## Version
 ### 0.1
